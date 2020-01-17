@@ -1,2 +1,2 @@
-# Link_for_UTS_Insearch_BI_Anylst
-Link_for_UTS_Insearch_BI_Anylst
+# Link_for_UTS_Insearch_BI_Analyst
+Link_for_UTS_Insearch_BI_Analyst
